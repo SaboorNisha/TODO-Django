@@ -9,7 +9,7 @@ This is a simple To-Do application built using Django. It utilizes SQLite for th
 - Delete tasks
 - User-friendly interface with Bootstrap
 - Persistent storage with SQLite
-- 
+  
 #Technologies Used
   - Backend: Django
   - Database: SQLite
