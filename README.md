@@ -1,6 +1,7 @@
 #To-Do App
 
 ##Overview
+
 This is a simple To-Do application built using Django. It utilizes SQLite for the database and HTML with Bootstrap for the front-end templates. The app allows users to create, view, mark as completed, and delete tasks.
 
 ##Features
