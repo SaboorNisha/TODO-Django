@@ -7,23 +7,18 @@ This is a simple To-Do application built using Django. It utilizes SQLite for th
 ## Features
 
 ![Add Task Icon](https://img.icons8.com/fluency-systems-filled/48/ffffff/add.png)
-
 **Add new tasks:** Easily add new tasks to your list.
 
 ![Checkmark Icon](https://img.icons8.com/fluency-systems-filled/48/ffffff/checkmark.png) 
-
 **Mark tasks as completed:** Mark tasks when they are finished.
 
 ![Delete Icon](https://img.icons8.com/fluency-systems-filled/48/ffffff/trash.png)  
-
 **Delete tasks:** Remove tasks that are no longer needed.
 
-![Bootstrap Icon](https://img.icons8.com/fluency-systems-filled/48/ffffff/bootstrap.png)  
-
+![Bootstrap Icon](https://img.icons8.com/color/50/7952B3/bootstrap.png)
 **User-friendly interface with Bootstrap:** Responsive design with a modern look.
 
 ![SQLite Icon](https://img.icons8.com/fluency-systems-filled/48/ffffff/sql.png)  
-
 **Persistent storage with SQLite:** Store tasks persistently using SQLite.
 
   
