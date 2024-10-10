@@ -4,6 +4,8 @@
 
 This is a simple To-Do application built using Django. It utilizes SQLite for the database and HTML with Bootstrap for the front-end templates. The app allows users to create, view, mark as completed, and delete tasks.
 
+---
+
 ## Features
 
 ![Add Task Icon](https://img.icons8.com/fluency-systems-filled/48/ffffff/add.png)
@@ -21,6 +23,7 @@ This is a simple To-Do application built using Django. It utilizes SQLite for th
 ![SQLite Icon](https://img.icons8.com/fluency-systems-filled/48/ffffff/sql.png)  
 **Persistent storage with SQLite:** Store tasks persistently using SQLite.
 
+---
   
 ## Technologies Used
 
