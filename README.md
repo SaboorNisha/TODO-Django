@@ -24,7 +24,7 @@ This is a simple To-Do application built using Django. It utilizes SQLite for th
 **Persistent storage with SQLite:** Store tasks persistently using SQLite.
 
 ---
-  
+
 ## Technologies Used..
 
 ![Django Icon](https://img.icons8.com/ios-filled/50/092E20/django.png)  **Backend : Django**
