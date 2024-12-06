@@ -9,7 +9,7 @@ This is a simple To-Do application built using Django. It utilizes SQLite for th
 ## Features..
 
 ![Add Task Icon](https://img.icons8.com/fluency-systems-filled/48/ffffff/add.png)
-**Add new tasks:** Easily add new tasks to your list.
+**Add new tasks:** Easily add new tasks to your list. Even You can Edit and Update your Task description and Title.
 
 ![Checkmark Icon](https://img.icons8.com/fluency-systems-filled/48/ffffff/checkmark.png) 
 **Mark tasks as completed:** Mark tasks when they are finished.
