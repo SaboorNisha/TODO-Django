@@ -44,3 +44,5 @@ This is a simple To-Do application built using Django. It utilizes SQLite for th
 
 **Bootstrap:** -> A front-end framework for developing responsive and mobile-first websites.
 
+## Contributing
+**Your contributions are valuable! Whether you've found a bug or have suggestions for improvements, feel free to open an issue or submit a pull request. Your input helps make this application better for everyone.**
